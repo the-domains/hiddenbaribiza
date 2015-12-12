@@ -1,7 +1,7 @@
 name: HiddenBaribiza
 favicon: null
-layout_spectrum: 0.280936598777771
-typography_spectrum: 0.4843977587297559
+layout_spectrum: 0.34834
+typography_spectrum: 0.51418
 title: Hidden Bar ibiza
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.3415240356698632
+    - '#ede2e6'
+    - '#dc69b0'
+    - '#111008'
+    - '#69797e'
+    - '#b12172'
+  brandStrength: 0.5
   lightness: 0.770523734157905
-  saturation: 0.8632975178770721
+  saturation: 0.75
   rhythmicContrast: 0.23194646183401346
 purpose: []
