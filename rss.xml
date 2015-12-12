@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Hidden Bar ibiza]]></title>
         <description><![CDATA[Hidden Bar ibiza]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hiddenbaribiza/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 14:04:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 14:04:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hiddenbaribiza/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.essentialibiza.com/assets/img/hero/ibiza-restaurants/hidden-bar/hidden-bar-1.jpg">]]></description>
+            <link>https://thegrid.ai/hiddenbaribiza/eba9b7f5-0153-405e-80f5-57d805796d63/index.html</link>
+            <guid isPermaLink="false">eba9b7f5-0153-405e-80f5-57d805796d63</guid>
+            <pubDate>Sat, 12 Dec 2015 14:03:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://i.dailymail.co.uk/i/pix/2015/09/23/16/2C6A92F100000578-3238217-In_September_the_summer_crowds_have_gone_but_the_weather_is_stil-a-52_1443021092938.jpg">]]></description>
-            <link>undefined1b4d1aa1-df23-4435-b3d5-ee30fc5e38dc/index.html</link>
+            <link>https://thegrid.ai/hiddenbaribiza/1b4d1aa1-df23-4435-b3d5-ee30fc5e38dc/index.html</link>
             <guid isPermaLink="false">1b4d1aa1-df23-4435-b3d5-ee30fc5e38dc</guid>
             <pubDate>Sat, 12 Dec 2015 14:03:53 GMT</pubDate>
         </item>
