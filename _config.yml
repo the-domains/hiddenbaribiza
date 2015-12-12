@@ -1,0 +1,28 @@
+name: HiddenBaribiza
+favicon: null
+layout_spectrum: 0.280936598777771
+typography_spectrum: 0.4843977587297559
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3415240356698632
+  lightness: 0.770523734157905
+  saturation: 0.8632975178770721
+  rhythmicContrast: 0.23194646183401346
+purpose: []
